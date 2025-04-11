@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/backend-learning-journey.iml" filepath="$PROJECT_DIR$/.idea/backend-learning-journey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning-spring-boot/01-basic-booking-app/basic-booking-app.iml" filepath="$PROJECT_DIR$/learning-spring-boot/01-basic-booking-app/basic-booking-app.iml" />
     </modules>
   </component>
 </project>
