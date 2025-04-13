@@ -6,16 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="basic-journal-app" />
+        <module name="response-entity" />
         <module name="basic-booking-app" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="02-basic-journal-app" target="17" />
       <module name="basic-booking-app" target="19" />
+      <module name="basic-booking-app (1)" target="19" />
+      <module name="basic-journal-app" target="17" />
+      <module name="response-entity" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="02-basic-journal-app" options="-parameters" />
       <module name="basic-booking-app" options="-parameters" />
+      <module name="basic-booking-app (1)" options="-parameters" />
+      <module name="basic-journal-app" options="-parameters" />
+      <module name="response-entity" options="-parameters" />
     </option>
   </component>
 </project>
