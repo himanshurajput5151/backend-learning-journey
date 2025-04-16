@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/backend-learning-journey.iml" filepath="$PROJECT_DIR$/.idea/backend-learning-journey.iml" />
       <module fileurl="file://$PROJECT_DIR$/learning-spring-boot/01-basic-booking-app/basic-booking-app.iml" filepath="$PROJECT_DIR$/learning-spring-boot/01-basic-booking-app/basic-booking-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/learning-spring-boot/02-basic-journal-app/basic-journal-app.iml" filepath="$PROJECT_DIR$/learning-spring-boot/02-basic-journal-app/basic-journal-app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/learning-spring-boot/03-response-entity/response-entity.iml" filepath="$PROJECT_DIR$/learning-spring-boot/03-response-entity/response-entity.iml" />
     </modules>
   </component>
 </project>

@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="basic-journal-app" />
-        <module name="response-entity" />
         <module name="basic-booking-app" />
       </profile>
     </annotationProcessing>
